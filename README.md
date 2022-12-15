@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on DGUT ACE Intelligent Robotics Lab , fighting for the next season of Robomaster .
-- 🌱 I’m currently learning C++ , algorithm , Java and MySQL.
+- 🌱 I’m currently learning C++ , algorithm , Java , c , python , shell and MySQL.
 - 📫 You can contact me on 1677195845@qq.com
 - 美国《时代周刊》2006年度风云人物
 - 2022奥林匹克杯获得者
