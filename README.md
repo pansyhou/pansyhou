@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on DGUT ACE Intelligent Robotics Lab , an embedded menber fighting for the 2023 season of Robomaster .
+- 🔭 An embedded menber fighting for the 2023 season of Robomaster .
 - 🌱 I’m currently learning C++ , algorithm , Java , C , rust , python , shell and MySQL.
 - 美国《时代周刊》2006年度风云人物
 - 2022奥林匹克杯获得者
